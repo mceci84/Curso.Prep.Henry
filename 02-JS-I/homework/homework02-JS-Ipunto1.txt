@@ -1,0 +1,11 @@
+1)
+
+VARIABLES: sirven para guardar información en algún lado y luego poder recuperarla.
+
+STRING: es un conjunto de caracteres.
+
+FUNCIONES: permiten agrupar codigo bajo un nombre, y puedo acceder a esta funcion las veces que quiero, sin tener que volver a escribir el codigo de nuevo. Permite reutilizar el codigo en distintos lugares. Algunas funciones me pueden pedir algun dato de entrada, le llamamos a este dato, argumento. El return es un valor que me va a devolver la funcion luego de ejecutarse. Todo lo que este por debajo del return no se ejecuta, ya que el mismo sale de la función.
+
+DECLARACIONES IF: son condiciones que se verifican, dependiendo del resultado de esas condiciones (verdaderas o falsas), se ejecutaran codigos diferentes.
+
+VALORES BOOLEANOS: estos valores me indican 2 posibles resultados, true o false.
